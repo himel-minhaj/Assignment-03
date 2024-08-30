@@ -1,5 +1,6 @@
-/* .victor {
-  background-image: url("../assets/Vector.png");
+.bg-image{
+  background-image: url(/assets/bg.jpg);
   background-repeat: no-repeat;
-  background-position: top 50px left 10px;
-} */
+  background-size: cover;
+  background-position: center;
+}
